@@ -4,3 +4,5 @@ __pycache
 .git
 .vscode
 .venv
+Pipfile
+Pipfile.lock
